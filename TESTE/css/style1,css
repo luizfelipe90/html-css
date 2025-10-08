@@ -1,0 +1,24 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #1e2caf;
+}
+/*Estilos para cabecalho*/
+h1  {
+    color: #679c88;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: #7bc5bf;
+    margin-bottom: 20px;
+}
+
+h3{
+    color: #ff0000;
+}
+ol{ 
+    color: #fd000d;
+}
